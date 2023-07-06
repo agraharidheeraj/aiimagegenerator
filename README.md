@@ -2,9 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## website link
 
-In the project directory, you can run:
+([Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
 
